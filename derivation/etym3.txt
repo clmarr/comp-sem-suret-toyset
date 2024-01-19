@@ -1,0 +1,10 @@
+Derivation file for run '../suret-toyset'; etymon number :3:
+#mawt̪um# >>> #mawha# ( GOLD : #mawha#) :
+m a w t̪ u m 
+#mawt̪u# | 2 : m > ∅ / __ #
+#mawθu# | 3 : [-son] > [+cont,0delrel] / [-cons] __ 
+#mawθə# | 4 : [+syl,+hi] > ə / __ #
+#mawθa# | 8 : ə > a / __ #
+Unknown-Stage stage form : #mawθa#
+#mawha# | 16 : θ > h 
+Final form : #mawha#

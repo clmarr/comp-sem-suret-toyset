@@ -1,0 +1,13 @@
+Derivation file for run '../suret-toyset'; etymon number :6:
+#kaːt̪ibum# >>> #kahəw# ( GOLD : #kasəw#) :
+k aː t̪ i b u m 
+#kaːt̪ibu# | 2 : m > ∅ / __ #
+#kaːθiβu# | 3 : [-son] > [+cont,0delrel] / [-cons] __ 
+#kaːθiβə# | 4 : [+syl,+hi] > ə / __ #
+#kaːθəβə# | 5 : [+syl,+hi] > ə / __ [-syl] [+syl]
+#kaːθəβ# | 6 : ə > ∅ / ə ( [+cons] )* __ 
+Unknown-Stage stage form : #kaːθəβ#
+#kaːhəβ# | 16 : θ > h 
+#kaːhəw# | 17 : β > w 
+#kahəw# | 20 : [+syl] > [-long,-splng] 
+Final form : #kahəw#

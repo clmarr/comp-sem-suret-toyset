@@ -1,0 +1,8 @@
+Derivation file for run '../suret-toyset'; etymon number :4:
+#jθaw# >>> #ʔihwa# ( GOLD : #ʔihwa#) :
+j θ a w 
+#ʔiθaw# | 9 : j > ʔ i / # __ [+cons]
+#ʔiθwa# | 10 : a w > w a / __ #
+Unknown-Stage stage form : #ʔiθwa#
+#ʔihwa# | 16 : θ > h 
+Final form : #ʔihwa#

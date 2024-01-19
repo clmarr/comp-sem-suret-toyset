@@ -1,0 +1,11 @@
+Derivation file for run '../suret-toyset'; etymon number :2:
+#maːt̪um# >>> #maha# ( GOLD : #maha#) :
+m aː t̪ u m 
+#maːt̪u# | 2 : m > ∅ / __ #
+#maːθu# | 3 : [-son] > [+cont,0delrel] / [-cons] __ 
+#maːθə# | 4 : [+syl,+hi] > ə / __ #
+#maːθa# | 8 : ə > a / __ #
+Unknown-Stage stage form : #maːθa#
+#maːha# | 16 : θ > h 
+#maha# | 20 : [+syl] > [-long,-splng] 
+Final form : #maha#

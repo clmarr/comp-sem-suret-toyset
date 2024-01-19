@@ -1,0 +1,13 @@
+=Proto-Semitic,Unknown-Stage,Result
+b a j t̪ u m , b a j θ a , b ɛ h a $house
+d͡z a j t̪ u m , z a j θ a , z ɛ h a $olivier
+m aː t̪ u m , m aː θ a , m a h a $village
+m a w t̪ u m , m a w θ a , m a w h a $death
+j θ a w , ʔ i θ w a , ʔ i h w a $be.3SG.PST
+k i t̪ aː b u m , k θ a β a , k s a w a $book
+k aː t̪ i b u m , k aː θ ə β , k a s ə w $write.3SG.PRES
+k i t̪ a j t̪ a ʔ , k θ a j θ a , k s ɛ h a $hen
+$... , r aː θ ə ħ , ʀ a sʶ ə x $boil.3SG.PRES. Don't really know what r̩ and s̩ represent here, probably pharyngealized, but based on what's available in my current symbol definitions file used by DiaSim, I'm going with sʶ and ʀ for now. 
+$... , ʔ a θ r a , ʔ a sʶ ʀ a $country
+$... , q a r θ a , q a ʀ sʶ a $cold
+$... , p aː θ ə ħ , pʰ a sʶ ə x $open.3SG.PRES. Based on Suret phonology, I assume "emphatic" p is [pʰ] (Khan 2016, shamelessly taken from wiki https://en.wikipedia.org/wiki/Suret_language) 

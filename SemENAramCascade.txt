@@ -1,0 +1,72 @@
+$Deriving Eastern Neo-Aramaic from Proto-Semitic per second takehome problem in Comparative Semitic that I totes went crazy with. 
+
+$ affricates ts and s become fricatives (development shared with Hebrew). Can just use +delrel (delayed release) to target them as they are the only affricates, I believe. 
+[+delrel] > [+cont]
+
+$ final ʔ effaced. (shared with Hebrew?) 
+ʔ > ∅ / __ #
+
+$ final -m is effaced (shared with Hebrew?)
+m > ∅ / __ # 
+
+$ Beghadhkephath. stops are fricated after non-consonantals. Not just vowels: thus /j/ and /w/ count. Shared with Hebrew but likely due to imposition due to the arrival of likely Aramaic-speaking Babylonian and Persian Jewry in Israel in c. 538 BCE -- not shared with Punic/Phoenician I think? In any case this the last development shared with Hebrew, whether due to pre-divergence development or due to Aramaic influence upon Hebrew. 
+[-son] > [+cont] / [-cons] __
+
+$ /i/ and /u/ reduce to ə (probably /ɨ/ at first) in open syllables, medially and finally
+[+syl,+hi] > ə / __ #
+[+syl,+hi] > ə / __ [-syl] [+syl] 
+
+$ /ɨ/ in a syllable after another /ə/ is deleted (case of kaːtibum > kaːθəβə > kaːθəβ)
+ə > ∅ / ə ([+cons])* __
+
+$ ə deleted between a buccal stop and a fricative 
+ə > ∅ / [-cont,+cons] __ [+cont] 
+
+$ surviving *ə final opens to a (house, olivier, death)
+ə > a / __ # 
+
+
+$ initial j- to ʔ i before a cons. 
+j > ʔ i / # __ [+cons]
+
+$ preference for final -a continues, causing final aw- to metathesize
+a w > w a / __ # 
+
+
+~Unknown-Stage
+
+$After this point we will generate Eastern Neo-Aramaic from this unknown (probably Aramaic, as it now looks pretty different from Hebrew) stage. 
+
+$ aj leveled to ɛ
+a j > ɛ 
+
+$r becomes a guttural, as I know is evidenced for Babylonian Hebrew and Babylonian Jewish Neo-Aramaic (an eastern Neo-Aramaic dialect??) (cf. Geoffrey Khan 1995, "The pronunciation of reš in the Tiberian Tradition of Biblical Hebrew", Hebrew Union College Annual, vol. 66 pp 67-80, www.jstor.org/stable/23508515). (admit this is justifiedǃ) 
+r > ʀ
+
+$Around now, Eastern Neo-Aramaic decides it hates non-strident spirants. 
+
+$θ after a consonant becomes s 
+θ > s / [+cons] __
+
+$θ or s next to a guttural student becomes the emphatic sibilant sʶ. Gutturals hereː q, ʀ, ħ... not counting ʔ for now despite the Hebrew tradition as it lacks the feature [+back]. This rule can see through a posterior schwa.
+[+ant,+cont] > sʶ / [+back,+cons,-hi] __
+[+ant,+cont] > sʶ / __ (ə) [+back,+cons,-hi]
+
+$Remaining θ debuccalized.
+θ > h 
+
+$β velarized and glided. 
+β > w
+
+$ħ velarized too. Must be after it triggers emphasis of s and former θ. 
+ħ > x
+
+$p aspirated. 
+p > pʰ 
+
+$vocalic length lost.
+[+syl] > [-long]
+
+
+
+

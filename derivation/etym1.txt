@@ -1,0 +1,12 @@
+Derivation file for run '../suret-toyset'; etymon number :1:
+#d͡zajt̪um# >>> #zɛha# ( GOLD : #zɛha#) :
+d͡z a j t̪ u m 
+#zajt̪um# | 0 : [+delrel] > [+cont,0delrel] 
+#zajt̪u# | 2 : m > ∅ / __ #
+#zajθu# | 3 : [-son] > [+cont,0delrel] / [-cons] __ 
+#zajθə# | 4 : [+syl,+hi] > ə / __ #
+#zajθa# | 8 : ə > a / __ #
+Unknown-Stage stage form : #zajθa#
+#zɛθa# | 11 : a j > ɛ 
+#zɛha# | 16 : θ > h 
+Final form : #zɛha#

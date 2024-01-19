@@ -1,0 +1,21 @@
+[+delrel] > [+cont,0delrel] 
+ʔ > ∅ / __ #
+m > ∅ / __ #
+[-son] > [+cont,0delrel] / [-cons] __ 
+[+syl,+hi] > ə / __ #
+[+syl,+hi] > ə / __ [-syl] [+syl]
+ə > ∅ / ə ( [+cons] )* __ 
+ə > ∅ / [-cont,+cons] __ [+cont]
+ə > a / __ #
+j > ʔ i / # __ [+cons]
+a w > w a / __ #
+a j > ɛ 
+r > ʀ 
+θ > s / [+cons] __ 
+[+ant,+cont] > sʶ / [+back,+cons,-hi] __ 
+[+ant,+cont] > sʶ / __ ( ə ) [+back,+cons,-hi]
+θ > h 
+β > w 
+ħ > x 
+p > pʰ 
+[+syl] > [-long,-splng] 

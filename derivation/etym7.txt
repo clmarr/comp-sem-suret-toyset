@@ -1,0 +1,12 @@
+Derivation file for run '../suret-toyset'; etymon number :7:
+#kit̪ajt̪aʔ# >>> #ksɛha# ( GOLD : #ksɛha#) :
+k i t̪ a j t̪ a ʔ 
+#kit̪ajt̪a# | 1 : ʔ > ∅ / __ #
+#kiθajθa# | 3 : [-son] > [+cont,0delrel] / [-cons] __ 
+#kəθajθa# | 5 : [+syl,+hi] > ə / __ [-syl] [+syl]
+#kθajθa# | 7 : ə > ∅ / [-cont,+cons] __ [+cont]
+Unknown-Stage stage form : #kθajθa#
+#kθɛθa# | 11 : a j > ɛ 
+#ksɛθa# | 13 : θ > s / [+cons] __ 
+#ksɛha# | 16 : θ > h 
+Final form : #ksɛha#

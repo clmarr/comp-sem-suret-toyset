@@ -1,0 +1,23 @@
+Analysis for Gold
+
+ACCURACY REPORT:
+Overall accuracy:                        0.87500000
+Accuracy within 1 phone:                 1.00000000
+Accuracy within 2 phones:                1.00000000
+Average edit distance from gold:         0.02500000
+Average feature edit distance from gold: 0.02644231
+
+Performance associated with each phone in Gold
+Phone in Gold	Associated final miss likelihood	Mean Associated Normalized Lev.Dist.	Mean Associated Feat Edit Dist
+b	|	0.0	|	0.0	|	0.0
+ɛ	|	0.0	|	0.0	|	0.0
+h	|	0.0	|	0.0	|	0.0
+a	|	0.09090909090909091	|	0.125	|	0.026442307692307692
+z	|	0.0	|	0.0	|	0.0
+m	|	0.0	|	0.0	|	0.0
+w	|	0.25	|	0.25	|	0.052884615384615384
+ʔ	|	0.0	|	0.0	|	0.0
+i	|	0.0	|	0.0	|	0.0
+k	|	0.3333333333333333	|	0.3333333333333333	|	0.07051282051282051
+s	|	0.3333333333333333	|	0.3333333333333333	|	0.07051282051282051
+ə	|	1.0	|	1.0	|	0.21153846153846154

@@ -1,0 +1,11 @@
+Derivation file for run '../suret-toyset'; etymon number :0:
+#bajt̪um# >>> #bɛha# ( GOLD : #bɛha#) :
+b a j t̪ u m 
+#bajt̪u# | 2 : m > ∅ / __ #
+#bajθu# | 3 : [-son] > [+cont,0delrel] / [-cons] __ 
+#bajθə# | 4 : [+syl,+hi] > ə / __ #
+#bajθa# | 8 : ə > a / __ #
+Unknown-Stage stage form : #bajθa#
+#bɛθa# | 11 : a j > ɛ 
+#bɛha# | 16 : θ > h 
+Final form : #bɛha#
